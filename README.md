@@ -1,3 +1,6 @@
+
+# ✅ README UPDATED – Screenshots Added
+
 # TMDb Movies Analysis 🎬
 
 Exploratory data analysis project using the TMDb Movies dataset to investigate
@@ -26,9 +29,16 @@ clean and well-documented data workflow.
 - Jupyter Notebook
 
 ## 📂 Repository Structure
-
-```text
 tmdb-movies-analysis/
-├── data/        # Dataset
-├── notebooks/   # Jupyter notebook
-├── reports/     # Exported HTML report
+|--data/        #Dataset
+|--notebooks/   #Jupiter notebook
+!-- reports/    #Exported HTML report  
+|--screenshot   #Screenshots
+
+
+
+## 📂 Screenshots
+
+![Data set description](screenshots/Main.png)
+![Data Wrangling](screenshots/Observaciones_inicial.png)
+![Adjusted revenue vs budget scatter plot](screenshots/Variabilidad.png)
